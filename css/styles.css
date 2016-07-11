@@ -1,0 +1,26 @@
+body {
+  font-size: 16px;
+}
+
+/** HEADER **/
+#nav-list {
+  margin-top: 10px;
+  background: #EFCBC4;
+}
+#nav-list a {
+  color: #4F3F3C;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #4F3F3C;
+  color: #EFCBC4;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#chicken-content{
+	min-height: 1000px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+}
